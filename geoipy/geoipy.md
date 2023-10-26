@@ -1,0 +1,4 @@
+ 
+# geoipy module
+
+::: geoipy.geoipy
